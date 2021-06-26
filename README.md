@@ -1,0 +1,2 @@
+# GoldPickup
+Randomized GoldPickup
