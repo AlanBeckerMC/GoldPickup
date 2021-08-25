@@ -2,15 +2,9 @@ package com.akutasan;
 
 import com.akutasan.listener.LISTENER_onPickup;
 import com.akutasan.manager.randomSpawner;
-import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
-import org.bukkit.entity.Player;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitRunnable;
-import org.bukkit.scoreboard.Scoreboard;
-
-import java.util.Objects;
 
 public class GoldPickup extends JavaPlugin {
     @Override
