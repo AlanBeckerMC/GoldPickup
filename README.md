@@ -1,2 +1,2 @@
 # GoldPickup
-Randomized Gold Pickup based on Hypixel's Pit
+Randomized Gold Pickup for former BattleGrounds
